@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://192.168.22.120:5432/ddbb
+    username: jonathan2
+    password: 1234
